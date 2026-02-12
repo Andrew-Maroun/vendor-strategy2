@@ -1,0 +1,1 @@
+# vendor-strategy2
